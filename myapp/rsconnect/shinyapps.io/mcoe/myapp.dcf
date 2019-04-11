@@ -1,0 +1,10 @@
+name: myapp
+title:
+username:
+account: mcoe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 793627
+bundleId: 1943569
+url: https://mcoe.shinyapps.io/myapp/
+when: 1552690899.23287
